@@ -2,4 +2,4 @@
 
 Matcher, Lexer, Parser, and Interpreter for the While Language
 
-Also includes LLVM-IR compiler. 
+Also includes LLVM-IR compiler for the Fun language
